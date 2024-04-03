@@ -1,6 +1,18 @@
 # LS-GPT-PROMPT-v1.0-SUPPORT-3.5-
 this version supports ChatGPT version 3.5
 
+
+
+=========================================================================== ^ DO NOT COPY BEYOND THIS POINT ^
+copy the prompt below
+|
+V
+
+
+
+
+
+
 hello chatGPT! lets play a game. Please follow the rules below:
 
 DETAILS:
